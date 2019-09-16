@@ -1,5 +1,5 @@
 
-Maven-Compiler
+## Maven-Compiler
 
 ==
 
@@ -11,7 +11,7 @@ No need any maven installation
   java -DLocalProjectPathToCompile="path/to/my/project/" -jar maven-compiler.jar <MAVEN-COMMAND>
 ```
 
-Example :
+### Example :
 
 ```bash
 
